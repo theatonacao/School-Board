@@ -1,0 +1,47 @@
+body{ 
+  font: 14px sans-serif; 
+  background-image: linear-gradient(to right bottom, #ffbc66, #e4c66a, #c9cd76, #b1d289, #9dd49e, #a1d6a4, #a6d8a9, #aadaaf, #c0ddab, #d6e0aa, #ebe2ad, #ffe4b3);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 520px;
+
+}
+.wrapper{ width: 360px; padding: 20px; }
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 500px;
+  height: 450px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  /*height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row{
+  margin: auto;
+  margin-top: 10%;
+  margin-left: 23%;
+  margin-right: 20%;
+}
+
+.companyName{
+  font-size: 55px;
+  font-weight: bold;
+  font-family: “Playfair Display”, “Didot”, "Times New Roman", Times, serif;
+  margin-top: 40px;
+  margin-right: 20px;
+  float: right;
+}
+
