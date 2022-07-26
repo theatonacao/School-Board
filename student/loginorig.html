@@ -1,0 +1,59 @@
+<!-- The login form created with HTML5 and CSS3. We don't need to use PHP in this file. Therefore, we can save it as plain HTML. -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>School Board</title>
+		<link href="../style.css" rel="stylesheet" type= "text/css">
+		<link rel="icon" href="SB-logo.png">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	
+	<body>
+		
+		
+		<form name="login" class="loginform" action=authenticate.php method="post" style="margin-top: 3rem; ">
+			<div class="row">
+				<div class="logoside">
+					<div class="logocontainer">
+						<div class="logo1">
+						</div> 
+						<div class="logo2">
+							<div class="rightside"></div>
+							<div class="leftside"></div>
+						</div> 
+						<div class="logo2">
+							<div class="rightside2"></div>
+							<div class="leftside2"></div>
+						</div> 
+						<div class="logo3 stack-top">
+						</div>
+						<div class="logo4 stack-top">
+						</div>
+					</div> 
+
+					<div class="logotext">
+						<h1 style="font-size: 60px;">School<br> Board</h1>
+					</div>
+				</div>
+
+			
+			<div class="loginside">
+					<div class="loginsideform" style="font-family: Arial;font-size: 12px;color:Grey;">
+						<span class="text1">SIGN IN</span><br>
+						<p style="font-family: Arial;font-size: 13px;color:Teal; text-align: center">Welcome to School Board!<br> Please log in to your account</p> <br>
+						
+						<h3 style="font-family: Trebuchet MS;font-size: 10px;color:DarkSlateGray;font-weight:700;">S T U D E N T  NO.&emsp;</h3>
+						<input type="text" name="studentno" id="studentno" required="" class="forinput"/><br>
+						<h3 style="font-family: Trebuchet MS;font-size: 10px;color:DarkSlateGray;font-weight:700;">P A S S W O R D&emsp;</h3>
+						<input type="password" name="password" id="password" required="" /class="forinput"><br>
+						<br><input type="submit" value="Login" class="loginbutton" onmouseover="this.style.background='DarkSlateGray';this.style.color='white';" onmouseout="this.style.background='Tomato';this.style.color='white';">
+						
+					</div>
+					
+				</div>
+			</div>
+		</form>
+
+		
+	</body>
+</html>

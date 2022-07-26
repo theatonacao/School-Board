@@ -1,0 +1,336 @@
+[13-May-2022 04:30:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/forms.php on line 13
+[13-May-2022 04:30:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 70
+[13-May-2022 04:30:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:30:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:31:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 70
+[13-May-2022 04:31:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:31:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:33:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 18
+[13-May-2022 04:33:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 20
+[13-May-2022 04:33:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 26
+[13-May-2022 04:33:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 26
+[13-May-2022 04:35:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 70
+[13-May-2022 04:35:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:35:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:35:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 18
+[13-May-2022 04:35:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 20
+[13-May-2022 04:35:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 26
+[13-May-2022 04:35:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 26
+[13-May-2022 04:37:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 70
+[13-May-2022 04:37:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:37:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:37:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 70
+[13-May-2022 04:37:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:37:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 76
+[13-May-2022 04:37:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF3.php on line 24
+[13-May-2022 04:37:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF3.php on line 26
+[13-May-2022 04:37:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF3.php on line 32
+[13-May-2022 04:37:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF3.php on line 32
+[13-May-2022 04:40:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 18
+[13-May-2022 04:40:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 20
+[13-May-2022 04:40:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 26
+[13-May-2022 04:40:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 26
+[13-May-2022 04:40:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 18
+[13-May-2022 04:40:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 20
+[13-May-2022 04:40:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 26
+[13-May-2022 04:40:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF2.php on line 26
+[13-May-2022 04:41:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/SF5.php on line 83
+[13-May-2022 04:41:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF5.php on line 88
+[13-May-2022 04:41:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/teacher/SF5.php on line 88
+[13-May-2022 04:47:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 20
+[13-May-2022 05:53:24 UTC] PHP Notice:  Undefined index: name in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 148
+[13-May-2022 05:53:27 UTC] PHP Notice:  Undefined index: name in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 148
+[20-May-2022 06:54:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 06:54:39 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 06:54:39 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 06:54:39 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 06:54:39 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 06:54:39 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 06:54:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 06:54:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 06:54:41 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 06:54:41 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 06:54:41 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 06:54:41 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 06:55:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 06:55:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 06:55:10 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 06:55:10 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 06:55:10 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 06:55:10 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 07:07:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 07:07:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 07:07:43 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 07:07:43 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 07:07:43 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 07:07:43 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:04:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 08:04:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 08:04:23 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:04:23 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:04:23 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:04:23 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:04:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 08:04:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 08:04:46 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:04:46 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:04:46 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:04:46 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:05:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 08:05:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 08:05:07 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:05:07 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:05:07 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:05:07 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:05:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 08:05:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 08:05:18 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:05:18 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:05:18 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:05:18 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:59:32 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 08:59:32 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 08:59:32 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:59:32 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 08:59:32 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 08:59:32 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 18:01:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 18:01:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 18:01:49 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 18:01:49 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 18:01:49 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 18:01:49 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 19:50:50 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 19:50:50 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 19:50:50 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 19:50:50 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 19:50:50 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 19:50:50 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 19:51:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 192
+[20-May-2022 19:51:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 209
+[20-May-2022 19:51:45 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 19:51:45 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 221
+[20-May-2022 19:51:45 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 19:51:45 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 222
+[20-May-2022 19:52:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 195
+[20-May-2022 19:52:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 212
+[20-May-2022 19:52:11 UTC] PHP Notice:  Undefined variable: Q1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 224
+[20-May-2022 19:52:11 UTC] PHP Notice:  Undefined variable: Q2 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 224
+[20-May-2022 19:52:11 UTC] PHP Notice:  Undefined variable: Q3 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 225
+[20-May-2022 19:52:11 UTC] PHP Notice:  Undefined variable: Q4 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 225
+[21-May-2022 00:38:21 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 224
+[21-May-2022 00:38:21 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 243
+[21-May-2022 00:38:21 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 290
+[21-May-2022 00:38:21 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 309
+[21-May-2022 00:40:02 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 227
+[21-May-2022 00:40:02 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 246
+[21-May-2022 00:40:02 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 293
+[21-May-2022 00:40:02 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 312
+[22-May-2022 11:29:41 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 227
+[22-May-2022 11:29:41 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 246
+[22-May-2022 11:29:41 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 293
+[22-May-2022 11:29:41 UTC] PHP Warning:  Division by zero in /home/dnkbs71lrp00/public_html/teacher/reports.php on line 312
+[22-May-2022 11:49:18 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'schoolBoard'@'localhost' to database 'schoolBoard_database' in /home/dnkbs71lrp00/public_html/teacher/authenticate.php on line 16
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined index: lrn in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 17
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 162
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 172
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 172
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 172
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Grade in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 173
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 174
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Adviser in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 175
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Birthdate in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 177
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Mothertongue in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 178
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Ethnicity in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 179
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Religion in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 180
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Citizenship in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 181
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Status in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 182
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Street in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 184
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Barangay in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 185
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: City in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 185
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Province in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 185
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Mobile in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 187
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Email in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 188
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Mother in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 191
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: Father in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 192
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: GAddress in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 193
+[24-May-2022 14:05:50 UTC] PHP Notice:  Undefined variable: GContact in /home/dnkbs71lrp00/public_html/teacher/studentprofile.php on line 194
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined index: lrn in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 17
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 301
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 305
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 305
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 305
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined variable: Ext in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 305
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 314
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined variable: Adviser in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 318
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 349
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 369
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 389
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 409
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 485
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 507
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 529
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 551
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 628
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 650
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 672
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 694
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 771
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 793
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 815
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 837
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 914
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 936
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 958
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 980
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1057
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1079
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1101
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1123
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1200
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1222
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1244
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1266
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1340
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1358
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1376
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1394
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1414
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1432
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1450
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1468
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1489
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1507
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1525
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1543
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1564
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1582
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1600
+[24-May-2022 16:59:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1618
+[24-May-2022 16:59:19 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2062
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined index: lrn in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 17
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 301
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 305
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 305
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 305
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined variable: Ext in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 305
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 314
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined variable: Adviser in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 318
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 349
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 369
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 389
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 409
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 485
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 507
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 529
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 551
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 628
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 650
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 672
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 694
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 771
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 793
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 815
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 837
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 914
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 936
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 958
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 980
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1057
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1079
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1101
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1123
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1200
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1222
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1244
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1266
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1340
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1358
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1376
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1394
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1414
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1432
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1450
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1468
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1489
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1507
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1525
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1543
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1564
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1582
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1600
+[24-May-2022 16:59:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 1618
+[24-May-2022 16:59:46 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2062
+[24-May-2022 17:44:01 UTC] PHP Notice:  Undefined variable: result1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2105
+[24-May-2022 17:44:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/dnkbs71lrp00/public_html/teacher/grades.php:2105
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2105
+[24-May-2022 17:44:09 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2103
+[24-May-2022 17:44:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2103
+[24-May-2022 17:44:37 UTC] PHP Notice:  Undefined variable: result1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2105
+[24-May-2022 17:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/dnkbs71lrp00/public_html/teacher/grades.php:2105
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2105
+[24-May-2022 17:44:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2103
+[24-May-2022 17:44:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2103
+[24-May-2022 17:53:25 UTC] PHP Notice:  Undefined variable: result1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2109
+[24-May-2022 17:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/dnkbs71lrp00/public_html/teacher/grades.php:2109
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2109
+[24-May-2022 17:53:28 UTC] PHP Notice:  Undefined variable: check in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2104
+[24-May-2022 17:53:28 UTC] PHP Warning:  mysqli::query(): Empty query in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2104
+[24-May-2022 17:53:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2107
+[24-May-2022 17:53:45 UTC] PHP Notice:  Undefined variable: result1 in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2109
+[24-May-2022 17:53:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/dnkbs71lrp00/public_html/teacher/grades.php:2109
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2109
+[24-May-2022 17:53:47 UTC] PHP Notice:  Undefined variable: check in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2104
+[24-May-2022 17:53:47 UTC] PHP Warning:  mysqli::query(): Empty query in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2104
+[24-May-2022 17:53:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2107
+[24-May-2022 18:00:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2090
+[24-May-2022 18:00:55 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2090
+[24-May-2022 18:01:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2090
+[24-May-2022 18:01:43 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dnkbs71lrp00/public_html/teacher/grades.php on line 2090
+[24-May-2022 18:35:36 UTC] PHP Notice:  Undefined index: year in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 71
+[24-May-2022 18:35:36 UTC] PHP Notice:  Undefined index: advisorysec in /home/dnkbs71lrp00/public_html/teacher/SF1.php on line 72
+[24-May-2022 19:47:20 UTC] PHP Notice:  Undefined variable: employeenum in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 21
+[24-May-2022 19:47:20 UTC] PHP Notice:  Undefined variable: conn in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 23
+[24-May-2022 19:47:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 23
+[24-May-2022 19:47:20 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 26
+[24-May-2022 19:50:02 UTC] PHP Notice:  Undefined variable: employeenum in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 21
+[24-May-2022 19:50:02 UTC] PHP Notice:  Undefined variable: conn in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 23
+[24-May-2022 19:50:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 23
+[24-May-2022 19:50:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 26
+[24-May-2022 19:52:02 UTC] PHP Notice:  Undefined variable: employeenum in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 21
+[24-May-2022 19:52:02 UTC] PHP Notice:  Undefined variable: conn in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 23
+[24-May-2022 19:52:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 23
+[24-May-2022 19:52:02 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 26
+[24-May-2022 20:05:58 UTC] PHP Notice:  Undefined variable: con in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:05:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dnkbs71lrp00/public_html/teacher/profile.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:07:23 UTC] PHP Notice:  Undefined variable: con in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dnkbs71lrp00/public_html/teacher/profile.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:08:57 UTC] PHP Notice:  Undefined variable: con in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:08:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dnkbs71lrp00/public_html/teacher/profile.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:08:59 UTC] PHP Notice:  Undefined variable: con in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:08:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dnkbs71lrp00/public_html/teacher/profile.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:09:00 UTC] PHP Notice:  Undefined variable: con in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48
+[24-May-2022 20:09:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/dnkbs71lrp00/public_html/teacher/profile.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dnkbs71lrp00/public_html/teacher/profile.php on line 48

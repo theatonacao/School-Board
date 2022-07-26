@@ -1,0 +1,807 @@
+[07-May-2022 13:39:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/authenticate.php on line 24
+[07-May-2022 13:42:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/authenticate.php on line 24
+[07-May-2022 13:42:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/authenticate.php on line 24
+[07-May-2022 13:45:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/authenticate.php on line 24
+[07-May-2022 16:53:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[07-May-2022 16:53:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 33
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 42
+[07-May-2022 16:53:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 44
+[07-May-2022 16:53:43 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 191
+[07-May-2022 16:53:43 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 16:53:43 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 16:53:43 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 16:53:43 UTC] PHP Notice:  Undefined variable: Ext in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 16:53:43 UTC] PHP Notice:  Undefined variable: Grade in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 200
+[07-May-2022 16:53:43 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 204
+[07-May-2022 16:53:43 UTC] PHP Notice:  Undefined variable: Adviser in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 209
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 16:53:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 424
+[07-May-2022 16:54:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 16:54:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 33
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 42
+[07-May-2022 17:12:36 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 44
+[07-May-2022 17:12:36 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 191
+[07-May-2022 17:12:36 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:12:36 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:12:36 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:12:36 UTC] PHP Notice:  Undefined variable: Ext in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:12:36 UTC] PHP Notice:  Undefined variable: Grade in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 200
+[07-May-2022 17:12:36 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 204
+[07-May-2022 17:12:36 UTC] PHP Notice:  Undefined variable: Adviser in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 209
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:12:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:12:37 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 424
+[07-May-2022 17:12:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 17:12:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[07-May-2022 17:12:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 17:12:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 17:12:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[07-May-2022 17:12:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/profile1.php on line 21
+[07-May-2022 17:12:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/profile1.php on line 31
+[07-May-2022 17:12:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/student/profile1.php on line 33
+[07-May-2022 17:12:51 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/profile1.php on line 74
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/student/profile1.php on line 210
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/student/profile1.php on line 226
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/student/profile1.php on line 226
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/student/profile1.php on line 226
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Ext in /home/dnkbs71lrp00/public_html/student/profile1.php on line 226
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/student/profile1.php on line 237
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Grade in /home/dnkbs71lrp00/public_html/student/profile1.php on line 245
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/student/profile1.php on line 245
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Birthdate in /home/dnkbs71lrp00/public_html/student/profile1.php on line 251
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Gender in /home/dnkbs71lrp00/public_html/student/profile1.php on line 252
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Height in /home/dnkbs71lrp00/public_html/student/profile1.php on line 253
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Weight in /home/dnkbs71lrp00/public_html/student/profile1.php on line 254
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Mothertongue in /home/dnkbs71lrp00/public_html/student/profile1.php on line 255
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Ethnicity in /home/dnkbs71lrp00/public_html/student/profile1.php on line 256
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Religion in /home/dnkbs71lrp00/public_html/student/profile1.php on line 257
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Citizenship in /home/dnkbs71lrp00/public_html/student/profile1.php on line 258
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Status in /home/dnkbs71lrp00/public_html/student/profile1.php on line 259
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Street in /home/dnkbs71lrp00/public_html/student/profile1.php on line 260
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Barangay in /home/dnkbs71lrp00/public_html/student/profile1.php on line 261
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: City in /home/dnkbs71lrp00/public_html/student/profile1.php on line 261
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Province in /home/dnkbs71lrp00/public_html/student/profile1.php on line 261
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Mobile in /home/dnkbs71lrp00/public_html/student/profile1.php on line 266
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Email in /home/dnkbs71lrp00/public_html/student/profile1.php on line 267
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Mother in /home/dnkbs71lrp00/public_html/student/profile1.php on line 269
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: Father in /home/dnkbs71lrp00/public_html/student/profile1.php on line 270
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: GAddress in /home/dnkbs71lrp00/public_html/student/profile1.php on line 271
+[07-May-2022 17:12:51 UTC] PHP Notice:  Undefined variable: GContact in /home/dnkbs71lrp00/public_html/student/profile1.php on line 272
+[07-May-2022 17:13:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[07-May-2022 17:13:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 33
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 42
+[07-May-2022 17:13:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 44
+[07-May-2022 17:13:19 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 191
+[07-May-2022 17:13:19 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:13:19 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:13:19 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:13:19 UTC] PHP Notice:  Undefined variable: Ext in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:13:19 UTC] PHP Notice:  Undefined variable: Grade in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 200
+[07-May-2022 17:13:19 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 204
+[07-May-2022 17:13:19 UTC] PHP Notice:  Undefined variable: Adviser in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 209
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:13:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 424
+[07-May-2022 17:28:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 17:28:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 17:28:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[07-May-2022 17:28:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 33
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 42
+[07-May-2022 17:28:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 44
+[07-May-2022 17:28:38 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 191
+[07-May-2022 17:28:38 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:28:38 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:28:38 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:28:38 UTC] PHP Notice:  Undefined variable: Ext in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[07-May-2022 17:28:38 UTC] PHP Notice:  Undefined variable: Grade in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 200
+[07-May-2022 17:28:38 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 204
+[07-May-2022 17:28:38 UTC] PHP Notice:  Undefined variable: Adviser in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 209
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[07-May-2022 17:28:38 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 424
+[08-May-2022 07:29:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[08-May-2022 07:29:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 33
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 42
+[08-May-2022 07:30:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 44
+[08-May-2022 07:30:10 UTC] PHP Notice:  Undefined variable: LRN in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 191
+[08-May-2022 07:30:10 UTC] PHP Notice:  Undefined variable: Lastname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[08-May-2022 07:30:10 UTC] PHP Notice:  Undefined variable: Firstname in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[08-May-2022 07:30:10 UTC] PHP Notice:  Undefined variable: Middlename in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[08-May-2022 07:30:10 UTC] PHP Notice:  Undefined variable: Ext in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 195
+[08-May-2022 07:30:10 UTC] PHP Notice:  Undefined variable: Grade in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 200
+[08-May-2022 07:30:10 UTC] PHP Notice:  Undefined variable: Section in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 204
+[08-May-2022 07:30:10 UTC] PHP Notice:  Undefined variable: Adviser in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 209
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 71
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 73
+[08-May-2022 07:30:10 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 424
+[08-May-2022 07:30:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 07:30:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[08-May-2022 15:47:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[08-May-2022 15:47:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 15:47:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[08-May-2022 15:50:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[08-May-2022 15:50:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 15:52:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 15:52:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 15:52:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 15:56:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 15:56:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 15:56:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 57
+[08-May-2022 15:56:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[08-May-2022 15:56:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[08-May-2022 15:57:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 16:14:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 16:14:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[09-May-2022 16:14:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 57
+[09-May-2022 16:14:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[09-May-2022 16:14:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 16:14:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 57
+[09-May-2022 16:15:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 16:15:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 16:16:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 16:20:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 16:21:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 57
+[09-May-2022 16:21:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 16:21:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[09-May-2022 18:33:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[09-May-2022 18:33:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[09-May-2022 18:33:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 57
+[10-May-2022 07:42:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[10-May-2022 08:03:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[10-May-2022 12:45:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[10-May-2022 12:45:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[13-May-2022 04:27:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[13-May-2022 04:35:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[13-May-2022 04:35:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[13-May-2022 04:35:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 54
+[13-May-2022 04:35:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[13-May-2022 04:35:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 78
+[13-May-2022 05:51:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[13-May-2022 05:51:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 57
+[14-May-2022 09:36:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 77
+[14-May-2022 09:46:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[14-May-2022 09:46:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[14-May-2022 09:46:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[14-May-2022 09:46:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[14-May-2022 09:46:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[14-May-2022 09:47:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[14-May-2022 09:47:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[14-May-2022 09:47:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[14-May-2022 10:43:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[14-May-2022 10:43:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[14-May-2022 10:43:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[14-May-2022 11:12:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[14-May-2022 11:15:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[14-May-2022 11:30:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[14-May-2022 11:33:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[14-May-2022 11:33:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[14-May-2022 11:35:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[14-May-2022 12:04:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[14-May-2022 12:04:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[14-May-2022 12:04:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[14-May-2022 12:04:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[14-May-2022 12:04:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[14-May-2022 12:04:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[14-May-2022 12:04:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[18-May-2022 06:26:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 06:26:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[18-May-2022 06:28:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 06:46:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 06:46:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[18-May-2022 06:46:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[18-May-2022 06:46:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 06:47:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 06:47:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[18-May-2022 06:47:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 06:48:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 10:23:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 10:23:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 10:24:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 10:24:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 10:51:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 11:01:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 11:01:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 11:05:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 11:05:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 11:05:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 13:08:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 13:08:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[18-May-2022 13:08:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 13:10:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 13:11:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 13:11:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 13:17:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[18-May-2022 13:17:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[18-May-2022 13:17:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[18-May-2022 13:20:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[18-May-2022 13:20:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[19-May-2022 05:17:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 05:21:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[19-May-2022 07:29:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:29:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 07:29:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[19-May-2022 07:29:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:30:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 07:30:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[19-May-2022 07:33:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[19-May-2022 07:33:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:34:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:46:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:46:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:47:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:47:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:47:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[19-May-2022 07:48:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:48:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[19-May-2022 07:48:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:55:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 07:56:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[19-May-2022 08:21:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[19-May-2022 08:22:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 08:28:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 08:29:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 08:31:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 08:31:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 08:32:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 08:35:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 08:36:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 08:39:08 UTC] PHP Parse error:  syntax error, unexpected '$Grade' (T_VARIABLE), expecting ';' or ',' in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 08:39:11 UTC] PHP Parse error:  syntax error, unexpected '$Grade' (T_VARIABLE), expecting ';' or ',' in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 08:39:12 UTC] PHP Parse error:  syntax error, unexpected '$Grade' (T_VARIABLE), expecting ';' or ',' in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 08:39:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[19-May-2022 08:39:19 UTC] PHP Parse error:  syntax error, unexpected '$Grade' (T_VARIABLE), expecting ';' or ',' in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 08:39:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[19-May-2022 08:39:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[19-May-2022 08:39:25 UTC] PHP Parse error:  syntax error, unexpected '$Grade' (T_VARIABLE), expecting ';' or ',' in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 12:33:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 12:33:51 UTC] PHP Parse error:  syntax error, unexpected '$Grade' (T_VARIABLE), expecting ';' or ',' in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 12:34:11 UTC] PHP Parse error:  syntax error, unexpected '$Grade' (T_VARIABLE), expecting ';' or ',' in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 12:34:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 12:34:16 UTC] PHP Parse error:  syntax error, unexpected '$Grade' (T_VARIABLE), expecting ';' or ',' in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 12:34:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 12:34:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 12:37:48 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 12:37:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 12:37:48 UTC] PHP Warning:  A non-numeric value encountered in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 611
+[19-May-2022 12:39:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 12:39:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 12:39:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 12:39:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[19-May-2022 13:56:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 13:56:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 14:17:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[19-May-2022 14:17:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 14:17:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 14:19:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 14:19:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 14:19:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[19-May-2022 14:20:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[19-May-2022 14:20:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 14:20:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[19-May-2022 14:20:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[19-May-2022 14:20:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 00:41:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 00:41:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 00:41:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 00:43:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 00:43:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 00:43:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 00:45:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 00:45:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 00:45:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 00:52:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 01:02:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:02:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:13:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:14:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:15:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:16:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 01:17:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:22:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:22:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:22:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:22:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:24:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:25:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:26:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:28:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:28:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:28:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:28:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:29:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:29:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:29:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:30:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:30:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:30:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:30:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:31:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:31:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:31:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 01:31:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 01:32:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:32:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:33:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:33:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:33:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:33:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:35:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:36:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:36:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 01:36:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:36:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 01:36:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:37:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:38:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:38:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 01:38:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 01:38:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 01:41:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 01:41:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 01:41:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 02:33:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:33:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:34:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 02:40:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:41:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 02:41:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 02:43:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:44:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 02:45:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:49:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:49:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 02:49:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 02:49:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:50:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 02:50:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 02:51:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:51:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 02:51:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 02:52:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:52:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 02:52:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:52:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 02:57:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 02:57:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 02:58:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:00:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:00:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 03:01:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 03:01:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 03:01:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:01:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:01:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:01:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:02:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:02:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 03:03:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:48:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:48:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 03:50:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 03:50:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 03:51:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 05:01:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 05:05:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 05:05:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 05:06:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 07:08:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 07:08:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 07:08:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 07:08:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 08:01:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 08:01:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 08:01:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 08:02:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 08:02:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 08:02:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 08:02:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 08:02:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 08:02:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 08:02:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 08:02:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 08:02:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 08:03:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 08:03:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 08:03:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 08:03:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 12:15:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 12:15:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 12:15:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 12:15:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 12:16:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 12:16:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 12:16:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 12:19:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 12:30:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 12:39:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 12:39:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 12:39:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 12:39:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 15:28:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 15:29:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 15:35:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 15:39:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 15:39:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 15:39:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 15:41:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 15:41:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 17:11:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 17:12:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 17:14:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 17:14:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 17:15:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 17:16:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 17:16:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 17:16:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 17:16:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 17:16:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 17:16:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 17:17:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[20-May-2022 17:17:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 17:18:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 17:18:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 18:28:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 18:29:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[20-May-2022 18:29:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[20-May-2022 18:29:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[20-May-2022 18:29:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[21-May-2022 00:20:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 00:20:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[21-May-2022 00:20:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[21-May-2022 00:25:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 06:14:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 06:14:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[21-May-2022 06:15:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 06:15:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[21-May-2022 06:15:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[21-May-2022 06:15:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[21-May-2022 06:15:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 06:15:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[21-May-2022 06:16:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[21-May-2022 06:16:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[21-May-2022 06:16:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 06:16:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[21-May-2022 06:16:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 06:17:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[21-May-2022 06:18:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 06:18:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[21-May-2022 06:19:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 06:19:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[21-May-2022 13:39:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 13:39:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[21-May-2022 13:39:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[21-May-2022 13:40:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 18:00:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[21-May-2022 18:01:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/requestEdit.php on line 64
+[22-May-2022 05:16:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/profile.php on line 65
+[22-May-2022 05:16:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[22-May-2022 05:16:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[22-May-2022 05:17:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 42
+[22-May-2022 05:53:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dnkbs71lrp00/public_html/student/performanceChart.php on line 39
+[24-May-2022 20:40:07 UTC] PHP Parse error:  syntax error, unexpected '$resultSS' (T_VARIABLE) in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 49
+[24-May-2022 20:40:12 UTC] PHP Parse error:  syntax error, unexpected '$resultSS' (T_VARIABLE) in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 49
+[24-May-2022 20:40:13 UTC] PHP Parse error:  syntax error, unexpected '$resultSS' (T_VARIABLE) in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 49
+[24-May-2022 20:40:14 UTC] PHP Parse error:  syntax error, unexpected '$resultSS' (T_VARIABLE) in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 49
+[24-May-2022 20:41:00 UTC] PHP Parse error:  syntax error, unexpected '$resultSS' (T_VARIABLE) in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 49
+[24-May-2022 20:42:18 UTC] PHP Parse error:  syntax error, unexpected '$resultSS' (T_VARIABLE) in /home/dnkbs71lrp00/public_html/student/mygrades.php on line 49
+[25-May-2022 02:21:49 UTC] PHP Notice:  Undefined variable: StudentNo in /home/dnkbs71lrp00/public_html/student/confirmInfo.php on line 54
+[25-May-2022 02:21:49 UTC] PHP Notice:  Undefined variable: conn in /home/dnkbs71lrp00/public_html/student/confirmInfo.php on line 56
+[25-May-2022 02:21:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dnkbs71lrp00/public_html/student/confirmInfo.php on line 56
+[25-May-2022 02:21:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/dnkbs71lrp00/public_html/student/confirmInfo.php on line 59

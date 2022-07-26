@@ -1,0 +1,357 @@
+body
+{
+	background:linear-gradient(180deg, #008080 95%, Tomato 5%);
+	height: 1000px;
+	width: 1000px;
+}
+
+.logo{
+	width: 40px; 
+	height: 60px; 
+	padding:10px;
+	float: left;
+}
+
+.sitename{
+	margin-top: 25px;
+	position: absolute;
+	font-size: 17pt;
+	color: whitesmoke;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+
+.navchoices{
+	text-align: right; 
+	overflow: hidden; 
+	color: whitesmoke;
+	list-style-type: none; 
+	padding: 25px 40px 20px 0px; 
+	font-family: Bahnschrift;  
+	margin-top: 5px;
+	font-weight:300;
+	text-transform: uppercase;
+	position: absolute;
+	margin-left: 450px;
+	letter-spacing: 2px;
+	word-spacing: 3px;
+	
+}
+
+.navchoices2{
+	text-decoration: none;
+	color:whitesmoke;
+}
+
+.line1{
+	width: 30px;
+	height: 4px;
+	background-color:whitesmoke;
+	border-radius: 10px;
+	margin: 20px;
+}
+
+.sidemenu{
+	margin-left: 770px;
+	margin-top: -30px;
+	position: static;
+}
+
+.bodydisplay{
+	margin: auto;
+	margin-top: 100px;
+	position: absolute;
+	width: 1075px;
+	height: 1000px;
+	background-color:white;
+	padding: 60px;
+	border-radius:40px; 
+	font-family:Trebuchet MS; 
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	margin-left: 75px;
+}
+
+table {
+	font-family:Trebuchet MS; 
+	font-size: 13pt;
+	border-collapse: collapse;
+	width: 80%;
+	text-align: left;
+	margin-left: 110px;
+	
+}
+
+td, th {
+	border: 1px solid grey;
+	border-radius: 10px;
+	text-align: left;
+	padding: 5px 5px 5px 30px;
+	height:10px;
+}
+
+.gradediv1{
+	height: 50px;
+	width: 1000px;
+	position: absolute;
+	background-color: tomato;
+	border-radius:30px; 
+	border-bottom-right-radius: 1px;
+	border-bottom-left-radius: 1px;
+	margin-left: 40px;
+	margin-top: 50px;
+	
+}
+.gradediv2{
+	height: 700px;
+	width: 1000px;
+	position: absolute;
+	margin-top: 100px;
+	color: Linen;
+	background-color: whitesmoke;
+	margin-left: 40px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+}
+
+.elearningheader1{
+	height: 60px;
+	width: 1200px;
+	position: absolute;
+	background-color: rgb(252,138,101);
+	border-radius:60px; 
+	border-bottom-right-radius: 1px;
+	border-bottom-left-radius: 1px;
+	margin-left: 6.5rem;
+	margin-top: 70px;
+	
+}
+.elearningheader2{
+	height: 900px;
+	width: 1140px;
+	position: absolute;
+	margin-top: 140px;
+	background-color: whitesmoke;
+	margin-left: 6.5rem;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	padding: 30px;
+
+}
+
+.elearning{
+	text-align: center;
+	color: white;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	font-size:20pt;
+	text-transform: Uppercase;
+	margin-top: 12px;
+	letter-spacing:2px;
+}
+
+.row{
+  display: flex;
+}
+
+.column{
+	position: absolute;
+	margin-top: 50px;
+	display: flex;
+	margin-left: 90px;
+	
+}
+
+.subjectbutton{
+	height: 100px;
+	width: 270px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	border-radius: 20px;
+	border-style: none;
+	position: absolute;
+	text-transform:uppercase;
+	text-align: center;
+	color: white;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	font-size:20pt;
+	button-style: none;
+}
+.btn1{
+	background-color: rgb(7,91,126);
+	margin-left: 50px;
+}
+.btn2{
+	background-color: rgb(53,175,180);
+	margin-left: 370px;
+}
+.btn3{
+	background-color: rgb(224,163,79);
+	margin-left: 700px;
+	
+}
+.btn4{
+	background-color: rgb(55,191,71);
+	margin-left: 50px;
+}
+.btn5{
+	background-color: rgb(227,79,107);
+	margin-left: 370px;
+	font-size:18pt;
+}
+.btn6{
+	background-color: rgb(173,71,161);
+	margin-left: 700px;
+}
+.btn7{
+	background-color:rgb(165,134,31);
+	margin-left: 50px;
+}
+.btn8{
+	background-color: rgb(239,232,64);
+	margin-left: 370px;
+}
+.btn9{
+	background-color: rgb(73,83,87);
+	margin-left: 700px;
+}
+
+.btn10{
+	background-color:rgb(252,138,101);
+	margin-left: 50px;
+}
+.btn11{
+	background-color: rgb(235,255,0);
+	margin-left: 370px;
+}
+.btn12{
+	background-color: grey;
+	margin-left: 700px;
+}
+.r2,.r3,.r4{
+	margin-top:125px;
+}
+
+.btna{
+	background-color: rgb(7,91,126);
+	margin-left: 75px;
+}
+.btnb{
+	background-color: rgb(53,175,180);
+	margin-left: 370px;
+
+}
+.btnc{
+	background-color: rgb(224,163,79);
+	margin-left: 125px;
+	
+}
+.btnd{
+	background-color: rgb(55,191,71);
+	margin-left: 50px;
+}
+
+
+.shscore{
+	margin-top:170px;
+	background-color: SeaGreen;
+	margin-left: 280px;
+	height: 70px;
+	width: 450px;
+	text-transform:uppercase;
+	text-align: center;
+	color: white;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	font-size:20pt;
+}
+
+h2{
+	margin: auto;
+	height: 70px;
+	margin-left: 50px;
+	
+	text-transform:uppercase;
+	text-align: left;
+	color: black;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	font-size:20pt;
+}
+
+.loginbutton{
+	background-color: tomato; 
+	border: none; 
+	border-radius: 10px;
+	color: white;
+	padding: 7px;
+	text-align: center;
+	margin-left: 25%;
+	width: 130px;
+	font-family:Trebuchet MS; 
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1) ;
+}
+.loginbutton1{
+	background-color: tomato; 
+	border: none; 
+	border-radius: 10px;
+	color: white;
+	padding: 7px;
+	text-align: center;
+	margin-left: 25%;
+	width: 130px;
+	font-family:Trebuchet MS; 
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1) ;
+}
+.loginside{
+	flex: 33.33%;
+	padding: 5px;
+}
+.loginsideform{
+	margin: auto;
+	margin-top: 10px;
+	position: relative;
+	width: 260px;
+	height: 350px;
+	background-color:GhostWhite;
+	padding: 40px;
+	border-radius:60px; 
+	font-family:Trebuchet MS; 
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1),0 4px 8px 0 rgba(0,0,0,0.1) ;
+}
+/* Clear floats after the columns */
+.rowX:after {
+  content: "";
+  display: table;
+  clear: both;
+  width: 100%;
+}
+.forinput{
+	background-color:white; 
+	padding: 10px; 
+	border-style: none;
+	border-radius:7px; 
+	width: 50%;
+	height: 30px;
+	display: inline-block;
+	border: 1px solid rgb(0,46,45);
+	box-sizing: border-box;
+}
+
+label{
+display:inline-block;
+width:200px;
+margin-right:30px;
+text-align:left;
+float: left;
+}
+
+fieldset{
+border:none;
+width:500px;
+margin:0px auto;
+}
+

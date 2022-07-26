@@ -1,0 +1,167 @@
+
+body
+{
+	background-color: #008080;
+	/*background-color: white;*/
+	
+}
+
+.logo{
+	width: 80px; 
+	height: 90px; 
+	padding:10px;
+	float: left;
+}
+
+.logotext{
+	margin-top:35px;
+	position: absolute;
+	font-size: 30px;
+	color: white;
+	font-weight:800;
+	font-family: Segoe UI; 
+	text-decoration: none;
+	letter-spacing: 2px;
+}
+
+
+.navchoices{
+	text-align: right; 
+	overflow: hidden; 
+	color: white;
+	list-style-type: none; 
+	padding: 25px 40px 20px 0px; 
+	font-family: Segoe UI; 
+	font-size: 22px; 
+	margin-top: 15px;
+	font-weight:800;
+	position: absolute;
+	margin-left: 500px;
+	letter-spacing: 2px;
+	word-spacing: 3px;
+	
+}
+
+.navchoices2{
+	text-decoration: none;
+	color:whitesmoke
+}
+
+.container{
+	height: 560px;
+	width: 1200px;
+	position: absolute;
+	margin-top: 105px;
+	background-color: honeydew;
+	margin-left: 50px;
+	margin-right: 80px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	padding: 30px;
+}
+
+/*h3{
+	text-align: center;
+	font-family: monospace;
+	font-style: oblique;
+	font-size: 30px;
+}
+*/
+.elearningheader2{
+	height: 900px;
+	width: 1140px;
+	position: absolute;
+	margin-top: 160px;
+	background-color: whitesmoke;
+	margin-left: 70px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	padding: 30px;
+}
+
+.row{
+  	margin-left: 60px;
+}
+
+.r1, .r2{
+	margin-top:150px;
+}
+
+.r3{
+	margin-top: 275px;
+}
+
+.column{
+	display: flex;
+}
+.c1{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 10px;
+}
+.c2{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.c3{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+
+.c4{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 400px;
+}
+
+
+.subjectbutton{
+	height: 100px;
+	width: 270px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	border-radius: 20px;
+	border-style: none;
+	position: absolute;
+	text-transform:uppercase;
+	text-align: center;
+	color: white;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	font-size:20pt;
+}
+.btn1{
+	background-color: rgb(7,91,126);
+	margin-left: 50px;
+}
+
+.btn2{
+	background-color: rgb(53,175,180);
+	margin-left: 370px;
+}
+
+.btnb{
+	background-color: rgb(53,175,180);
+	margin-left: 500px;
+}
+
+.details{
+	height: 700px;
+	width: 1100px;
+	position: absolute;
+	margin-top: 120px;
+	background-color: whitesmoke;
+	margin-left: 80px;
+	margin-right: 100px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	padding: 30px;
+}

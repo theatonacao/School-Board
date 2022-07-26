@@ -1,0 +1,333 @@
+/*The stylesheet (CSS) for our secure login app*/
+/*The stylesheet (CSS) for our secure login app*/
+body
+{
+	background:linear-gradient(180deg, #008080 95%, Tomato 5%);
+}
+
+.loginform{
+	margin: auto;
+	margin-top: 50px;
+	position: relative;
+	width: 800px;
+	height: 450px;
+	background-color:GhostWhite;
+	padding: 50px;
+	border-radius:60px; 
+	font-family:Trebuchet MS; 
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+}
+
+.row{
+  display: flex;
+}
+
+.logoside{
+	flex: 33.33%;
+	padding: 5px;
+}
+
+.loginside{
+	flex: 33.33%;
+	padding: 5px;
+}
+
+.logocontainer{
+	position:absolute;
+	top:50%;
+	left:15%;
+	transform: translate(-50%, -50%);
+	height: 250px;
+	width: 200px;
+	
+	display: grid;
+}
+
+.logo1{
+	height: 35px;
+	width: 150px;
+	position: absolute;
+	background-color: rgb(235,187,102);
+	border-radius:10px; 
+	border-bottom-right-radius: 1px;
+	border-bottom-left-radius: 1px;
+}
+.logo2{
+	height: 200px;
+	width: 150px;
+	position: absolute;
+	margin-top: 30px;
+	display: flex;
+}
+
+.rightside{
+	height: 120px;
+	width: 150px;
+	background-color: Teal;
+}
+.leftside{
+	height: 120px;
+	width: 150px;
+	background-color: rgb(0,46,45);
+}
+
+.logo3{
+	background-color: black;
+    display: inline-block;
+    height: 82px;
+	width: 87px;
+    margin-top: 149px;
+	margin-left: 32px;
+    position: relative;
+    transform: rotate(-45deg);
+	background:linear-gradient(135deg, Tomato 50%, rgb(144,56,20) 50%);
+}
+
+.rightside2{
+	content: "";
+	margin-top: 85px;
+	border-radius: 50%;
+	height: 85px;
+	position: absolute;
+	width: 81px;
+	background-color: tomato;
+	border-bottom-right-radius: 1px;
+	transform: rotate(10deg);
+	
+}
+.leftside2{
+	content: "";
+	margin-top: 85px;
+	border-radius: 50%;
+	height: 81px;
+	position: absolute;
+	width: 81px;
+	margin-left: 69px;
+	background-color: rgb(144,56,20);
+	border-bottom-left-radius: 1px;
+	transform: rotate(-10deg);
+}
+.stack-top{
+	z-index:9;
+}
+
+.logo4{
+	background-color:rgb(0,46,45);
+    display: inline-block;
+    height: 45px;
+	width: 45px;
+    margin-top: -45px;
+	margin-left: 52px;
+    position: relative;
+    transform: rotate(-45deg);
+	border-top-right-radius: 50px;
+    
+}
+
+.logotext{
+	margin-top: 120px;
+	margin-left: 150px;
+	position: relative;
+	font-size: 10px;
+	color: rgb(8,38,38);
+
+}
+
+.loginsideform{
+	margin: auto;
+	margin-top: 10px;
+	position: relative;
+	width: 260px;
+	height: 350px;
+	background-color:GhostWhite;
+	padding: 40px;
+	border-radius:60px; 
+	font-family:Trebuchet MS; 
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1),0 4px 8px 0 rgba(0,0,0,0.1) ;
+}
+
+.choice1,.choice2,.choice3{
+	background-color: white; 
+	border: 1px solid grey;
+	border-radius:0px;
+	color: white;
+	padding: 3px 10px;
+	text-align: center;
+	color: Teal;
+	font-size: 12px;
+	font-family:Trebuchet MS; 
+	
+	
+}
+
+.choice1{
+	margin-left: 20px;
+}
+.choice2{
+	padding: 3px 10px;
+	
+}
+.choice3{
+	padding: 3px 18px;
+	
+}
+
+.forinput{
+	background-color:white; 
+	padding: 10px; 
+	border-style: none;
+	border-radius:7px; 
+	width: 260px;
+	height: 30px;
+	display: inline-block;
+	border: 1px solid rgb(0,46,45);
+	box-sizing: border-box;
+}
+
+.loginbutton{
+	background-color: tomato; 
+	border: none; 
+	border-radius: 10px;
+	color: white;
+	padding: 7px;
+	text-align: center;
+	margin-left: 25%;
+	width: 140px;
+	font-family:Trebuchet MS; 
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1),0 2px 2px 0 rgba(0,0,0,0.1) ;
+}
+
+.text1{
+	text-transform: uppercase;
+	display: block;
+	font-size: 20px;
+	font-weight:700;
+	letter-spacing: 3px;
+	color: black;
+	position: relative;
+	animation: text 3s 1;
+	text-align: center;
+	color:DarkSlateGray;
+	text-shadow: 2px 4px 4px LightGrey;
+}
+
+
+.bodyheader1{
+	height: 60px;
+	width: 1200px;
+	position: absolute;
+	background-color: rgb(252,138,101);
+	border-radius:60px; 
+	border-bottom-right-radius: 1px;
+	border-bottom-left-radius: 1px;
+	margin-left: 70px;
+	margin-top: 100px;
+	
+}
+.bodyheader2{
+	height: 900px;
+	width: 1140px;
+	position: absolute;
+	margin-top: 160px;
+	background-color: whitesmoke;
+	margin-left: 70px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	padding: 30px;
+}
+
+.bodyheading{
+	text-align: center;
+	color: white;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	font-size:20pt;
+	text-transform: Uppercase;
+	margin-top: 12px;
+	letter-spacing:2px;
+}
+
+h2{
+	margin: auto;
+	height: 70px;
+	margin-left: 50px;
+	
+	text-transform:uppercase;
+	text-align: left;
+	color: black;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	font-size:20pt;
+}
+
+.navchoices{
+	text-align: right; 
+	overflow: hidden; 
+	color: whitesmoke;
+	list-style-type: none; 
+	padding: 25px 40px 20px 0px; 
+	font-family: Bahnschrift;  
+	margin-top: 5px;
+	font-weight:300;
+	text-transform: uppercase;
+	position: absolute;
+	margin-left: 450px;
+	letter-spacing: 2px;
+	word-spacing: 3px;
+	
+}
+
+.navchoices2{
+	text-decoration: none;
+	color:whitesmoke;
+}
+
+.elearningheader1{
+	height: 60px;
+	width: 1200px;
+	position: absolute;
+	background-color: rgb(252,138,101);
+	border-radius:60px; 
+	border-bottom-right-radius: 1px;
+	border-bottom-left-radius: 1px;
+	margin-left: 70px;
+	margin-top: 100px;
+	
+}
+.elearningheader2{
+	height: 900px;
+	width: 1140px;
+	position: absolute;
+	margin-top: 160px;
+	background-color: whitesmoke;
+	margin-left: 70px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) ;
+	padding: 30px;
+}
+
+.elearning{
+	text-align: center;
+	color: white;
+	font-weight:700;
+	font-family:Trebuchet MS; 
+	font-size:20pt;
+	text-transform: Uppercase;
+	margin-top: 12px;
+	letter-spacing:2px;
+}
+
+@keyframes text{
+	0%{
+		color: black;
+	}
+	30%{
+		letter-spacing: 20px;
+	}
+	40%{
+		letter-spacing: 3px;
+	}
+	
+}

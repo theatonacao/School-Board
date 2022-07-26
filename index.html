@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>School Board</title>
+	<link rel="icon" href="SB-logo.png">
+	<link rel="stylesheet" type="text/css" href="student/style_login.css">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
+	<script src="https://kit.fontawesome.com/a81368914c.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+	
+</head>
+<body style="
+	background:whitesmoke">
+    <img class="wave" src="student/wave.png">
+
+
+				<div class="container">
+
+					
+						<div class="img">
+						<img src="student/bg.png">
+						</div>
+						<div class="login-content">
+							<form name="login">
+							
+								<img src="student/sblogo.png"  >
+								<h2 class="title">LOGIN AS<br></h2>
+
+								
+				           		<input type="button" class="btn" value="Student" style="background-image: linear-gradient(to right, #f26900, #f29249, #ed8a00);" onclick="loginstudent();">
+				           		
+
+				           		
+				           		<input type="button" class="btn" value="Teacher" style="background-image: linear-gradient(to right, #1d8a78, #3bc4ae, #029c83);" onclick="loginteacher();">
+				           	
+				           		
+				           		<input type="button" class="btn" value="Administrator" onclick="loginadmin();">
+				           		
+				            	
+				            </form>
+				        </div>
+							
+					
+					
+			    </div>
+<script type="text/javascript">
+		const inputs = document.querySelectorAll(".input");
+
+
+		function addcl(){
+			let parent = this.parentNode.parentNode;
+			parent.classList.add("focus");
+		}
+
+		function remcl(){
+			let parent = this.parentNode.parentNode;
+			if(this.value == ""){
+				parent.classList.remove("focus");
+			}
+		}
+
+
+		inputs.forEach(input => {
+			input.addEventListener("focus", addcl);
+			input.addEventListener("blur", remcl);
+		});
+
+		function loginstudent(){
+			window.location.href = "student/login.php";
+
+		}
+		function loginteacher(){
+			window.location.href = "teacher/index.html";
+			
+		}
+		function loginadmin(){
+			window.location.href = "admin/login.php";
+			
+		}
+
+
+
+		
+</script>
+</body>
+
+
+</html>
